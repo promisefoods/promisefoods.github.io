@@ -10,18 +10,22 @@
   font-style: normal;
 }
 
+#container {
+	width: 50%;
+    max-width: 800px; 
+    min-width: 350px;    
+    margin-left: auto;
+    margin-right: auto;
+}
+
 header {
-	font-family: "Sunn", Times, serif;
-	font-size: 5em;
+	font-family: "SUNN", Times, serif;
+	font-size: 6vw;
     text-align: center;
 
 }
 
 img {
 	display:block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    max-width: 800px; 
-    min-width: 350px;
+    width: 100%;
 }
