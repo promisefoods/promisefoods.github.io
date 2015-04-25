@@ -12,7 +12,7 @@
 
 #container {
 	width: 50%;
-    max-width: 800px; 
+    max-width: 600px; 
     min-width: 350px;    
     margin-left: auto;
     margin-right: auto;
@@ -22,7 +22,6 @@ header {
 	font-family: "SUNN", Times, serif;
 	font-size: 8vw;
     text-align: center;
-
 }
 
 img {
